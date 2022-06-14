@@ -16,3 +16,9 @@ Node.JS - Express - SQL - Figma - GitHub
 
 ### 🛠 İş
 [Çetintaş Yazılım](https://www.cetintas.com/)
+
+<br />
+
+[Twitter](https://twitter.com/poyrazbeys34)
+[Linkedin](https://www.linkedin.com/in/polat-poyraz-340150241/)
+[Medium](https://medium.com/)
