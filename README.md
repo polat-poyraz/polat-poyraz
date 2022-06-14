@@ -2,7 +2,7 @@
 
 Full Stack Web And Mobile Developer
 
-### Hakkımda
+### 👱🏻 Hakkımda
 Merhaba. Ben Polat Poyraz, 2004 İstanbul doğumluyum. Sade bir yaşantım var.
 Yazılım ve ürün geliştirme tam anlamıyla hayatımın etrafında dönüyor, buda işimden keyif almamı sağlıyor.
 
@@ -10,9 +10,9 @@ Yazılım ve ürün geliştirmeye kendimden emin bir şekilde tam anlamıyla 201
 
 Ancak ne kadar ilerlemişde olsamda herzaman daha fazlasını istiyorum. Daha çok yazılım diline, daha çok Design Pattern ve UI/UX konseptine hakim olmak hedeflerim arasında.
 
-## Yetenekler
+## 🎭 Yetenekler
 HTML - CSS - SASS - JavaScript - TypeScript - React.JS - Vue.JS - Next.JS - Nuxt.JS  
 Node.JS - Express - SQL - Figma - GitHub
 
-### İş
+### 🛠 İş
 [Çetintaş Yazılım](https://www.cetintas.com/)
