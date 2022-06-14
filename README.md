@@ -28,4 +28,4 @@ polat@cetintas.com.tr
 
 [Twitter](https://twitter.com/poyrazbeys34)  
 [Linkedin](https://www.linkedin.com/in/polat-poyraz-340150241/)  
-[Medium](https://medium.com/)
+[Medium](https://medium.com/@poyrazbeyf)
