@@ -12,7 +12,7 @@ Ancak ne kadar ilerlemişde olsamda herzaman daha fazlasını istiyorum. Daha ç
 
 ## 🎭 Yetenekler
 HTML - CSS - SASS - JavaScript - TypeScript - React.JS - Vue.JS - Next.JS - Nuxt.JS  
-Node.JS - Express - SQL - Figma - GitHub
+Node.JS - Express - Coldfusion - SQL - Figma - GitHub
 
 ### 🛠 İş
 [Çetintaş Yazılım](https://www.cetintas.com/)
