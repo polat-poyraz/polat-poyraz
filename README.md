@@ -11,8 +11,7 @@ Yazılım ve ürün geliştirmeye kendimden emin bir şekilde tam anlamıyla 201
 Ancak ne kadar ilerlemişde olsamda herzaman daha fazlasını istiyorum. Daha çok yazılım diline, daha çok Design Pattern ve UI/UX konseptine hakim olmak hedeflerim arasında.
 
 ## 🎭 Yetenekler
-HTML - CSS - SASS - JavaScript - TypeScript - React.JS - Vue.JS - Next.JS - Nuxt.JS  
-Node.JS - Coldfusion - SQL - Figma - Git - Coldfusion
+**HTML** ~ **CSS** ~ **Sass** ~ **JavaScript** ~ **TypeScript** ~ **React.JS** ~ **React Native** ~ **Vue.JS** ~ **Next.JS** ~ **Nuxt.JS** ~ **Node.JS** ~ **Coldfusion** ~ **C#** ~ **SQL** ~ **Figma** ~ **Git** ~ **UI/UX**
 
 ### 🛠 İş
 [Çetintaş Yazılım](https://www.cetintas.com/)
